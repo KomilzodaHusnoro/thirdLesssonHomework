@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\projects\new lessons\thirdLesson\domashka2403\obj\Debug\netcoreapp3.1\domashka2403.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\projects\new lessons\thirdLesson\domashka2403\obj\Debug\netcoreapp3.1\domashka2403.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\projects\new lessons\thirdLesson\domashka2403\obj\Debug\netcoreapp3.1\domashka2403.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\projects\new lessons\thirdLesson\domashka2403\obj\Debug\netcoreapp3.1\domashka2403.AssemblyInfo.cs
+C:\Users\HP\Desktop\projects\new lessons\thirdLesson\domashka2403\bin\Debug\netcoreapp3.1\domashka2403.exe
+C:\Users\HP\Desktop\projects\new lessons\thirdLesson\domashka2403\bin\Debug\netcoreapp3.1\domashka2403.deps.json
+C:\Users\HP\Desktop\projects\new lessons\thirdLesson\domashka2403\bin\Debug\netcoreapp3.1\domashka2403.runtimeconfig.json
+C:\Users\HP\Desktop\projects\new lessons\thirdLesson\domashka2403\bin\Debug\netcoreapp3.1\domashka2403.runtimeconfig.dev.json
+C:\Users\HP\Desktop\projects\new lessons\thirdLesson\domashka2403\bin\Debug\netcoreapp3.1\domashka2403.dll
+C:\Users\HP\Desktop\projects\new lessons\thirdLesson\domashka2403\bin\Debug\netcoreapp3.1\domashka2403.pdb
+C:\Users\HP\Desktop\projects\new lessons\thirdLesson\domashka2403\obj\Debug\netcoreapp3.1\domashka2403.dll
+C:\Users\HP\Desktop\projects\new lessons\thirdLesson\domashka2403\obj\Debug\netcoreapp3.1\domashka2403.pdb
+C:\Users\HP\Desktop\projects\new lessons\thirdLesson\domashka2403\obj\Debug\netcoreapp3.1\domashka2403.genruntimeconfig.cache
